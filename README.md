@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 ### 공부 기록
 
-https://www.notion.so/909a2276c2ff4905aaecda14e47340e9?pvs=4
+https://fuchsia-backpack-43f.notion.site/909a2276c2ff4905aaecda14e47340e9?pvs=4
+
+
