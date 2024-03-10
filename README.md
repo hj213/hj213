@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hj213&show_icons=true&theme=buefy)
+// ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hj213&show_icons=true&theme=buefy)
+
+#### 공부 기록
 
 
-
+https://fuchsia-backpack-43f.notion.site/909a2276c2ff4905aaecda14e47340e9 
 
