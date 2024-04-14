@@ -1,4 +1,7 @@
 ### 윤효정
+## FrontEnd Developer
+
+<img src="https://img.shields.io/badge/Next.js-#000000?style=for-the-badge&logo=Next.js&logoColor=white">
 
 #### 🗂️ 공부 기록
 
