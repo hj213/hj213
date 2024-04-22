@@ -9,3 +9,5 @@
 
 https://fuchsia-backpack-43f.notion.site/909a2276c2ff4905aaecda14e47340e9 
 
+
+![hj213's GitHub stats](https://github-readme-stats.vercel.app/api?hj213=anuraghazra&show_icons=true&theme=transparent)
