@@ -9,8 +9,9 @@
 
 #### 🗂️ 공부 기록
 
+<a href="https://fuchsia-backpack-43f.notion.site/909a2276c2ff4905aaecda14e47340e9 "><img src ="https://img.shields.io/badge/Notion-111111?&style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
 
-https://fuchsia-backpack-43f.notion.site/909a2276c2ff4905aaecda14e47340e9 
+
 
 
 ![hj213's GitHub stats](https://github-readme-stats.vercel.app/api?username=hj213&show_icons=true&theme=transparent)
