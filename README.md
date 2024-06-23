@@ -13,6 +13,10 @@
 
 <a href="https://fuchsia-backpack-43f.notion.site/909a2276c2ff4905aaecda14e47340e9 "><img src ="https://img.shields.io/badge/Notion-111111?&style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
 
+#### 🗂️ 포트폴리오
+
+<a href="[https://fuchsia-backpack-43f.notion.site/909a2276c2ff4905aaecda14e47340e9](https://fuchsia-backpack-43f.notion.site/8356179eda3e4a03a39c2110a23af009?pvs=4) "><img src ="https://img.shields.io/badge/Notion-111111?&style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
+
 
 
 
