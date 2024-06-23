@@ -3,19 +3,20 @@
 
 <br>
 
+#### 🗂️ 공부 기록
+
+<a href="https://fuchsia-backpack-43f.notion.site/909a2276c2ff4905aaecda14e47340e9 "><img src ="https://img.shields.io/badge/Notion-111111?&style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
+
+#### 🧿 포트폴리오
+
+<a href="https://fuchsia-backpack-43f.notion.site/8356179eda3e4a03a39c2110a23af009?pvs=4"><img src ="https://img.shields.io/badge/Notion-111111?&style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
 
 #### 🛠️ 기술 스택 
 
 <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=purple"> <img src="https://img.shields.io/badge/TailwindCss-06B6D4?style=for-the-badge&logo=TailwindCss&logoColor=white"> <img src="https://img.shields.io/badge/mui-blue?style=for-the-badge&logo=mui&logoColor=white">
 
 
-#### 🗂️ 공부 기록
 
-<a href="https://fuchsia-backpack-43f.notion.site/909a2276c2ff4905aaecda14e47340e9 "><img src ="https://img.shields.io/badge/Notion-111111?&style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
-
-#### 🗂️ 포트폴리오
-
-<a href="https://fuchsia-backpack-43f.notion.site/8356179eda3e4a03a39c2110a23af009?pvs=4"><img src ="https://img.shields.io/badge/Notion-111111?&style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
 
 
 
